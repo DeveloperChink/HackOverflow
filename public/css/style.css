@@ -1,0 +1,68 @@
+/* home.blade.php styles */
+#homepage-container{
+    position: relative;
+    width: 95%;
+}
+
+.jumbotron{
+    height: 20em;
+    border-radius: 1.5em;
+}
+
+.search-bar{
+    position: absolute;
+    top:17.5em;
+    left: 10%;
+
+    border-radius: 1.5em;
+    height: 5em;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#search-field{
+    border-radius: 0px;
+    border: none;
+    border-right: 1px solid gray;
+}
+
+#filter{
+    border: none;
+    margin-right: .5em;
+}
+
+.featured-projects-container{
+    margin-top: 7em;
+}
+
+.featured-projects-container>h1{
+    margin-bottom: 1em;
+}
+
+.featured-orgs-container{
+    margin-top: 7em;
+    margin-bottom: 7em;
+}
+
+.badge{
+    border-radius: 2em;
+}
+
+.card-deck{
+    margin-top: 2em;
+}
+
+.card-deck>.card{
+    height: 15em;
+}
+
+/* home.blade.php styles end */
+
+
+/* footer.blade.php styles */
+footer>div{
+    height: 6em;
+}
+/* footer.blade.php styles end */
