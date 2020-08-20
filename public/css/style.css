@@ -90,7 +90,6 @@ footer>div{
 }
 /* footer.blade.php styles end */
 
-<<<<<<< HEAD
 .page-3-title{
     color:#84C5F4;
     font-size: 16px;
@@ -100,8 +99,6 @@ footer>div{
     font-size: 32px;
     color: #F0F4F8;
 }
-=======
-
 /* projects.blade.php styles */
 
 #projectspage-container{
@@ -195,4 +192,3 @@ footer>div{
     box-shadow: 0 0 11px rgba(33,33,33,.2);
 }
 /* projects.blade.php styles end */
->>>>>>> ad4fc5819634349042e31e3d384d1191c8e05c72
