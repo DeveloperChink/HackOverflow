@@ -1,3 +1,17 @@
+body{
+    background-color: #F0F4F8;
+}
+
+/* general <a> style */
+a{
+    color: black;
+}
+
+a:hover{
+    color: white;
+}
+/* general <a> style end */
+
 /* home.blade.php styles */
 #homepage-container{
     position: relative;
@@ -5,8 +19,17 @@
 }
 
 .jumbotron{
+    background-color: #DCEEFB;
     height: 20em;
     border-radius: 1.5em;
+}
+
+.jumbotron>h1{
+    color: #003E6B;
+}
+
+.jumbotron>p{
+    color: #2680C2;
 }
 
 .search-bar{
@@ -67,6 +90,7 @@ footer>div{
 }
 /* footer.blade.php styles end */
 
+<<<<<<< HEAD
 .page-3-title{
     color:#84C5F4;
     font-size: 16px;
@@ -76,3 +100,99 @@ footer>div{
     font-size: 32px;
     color: #F0F4F8;
 }
+=======
+
+/* projects.blade.php styles */
+
+#projectspage-container{
+    position: relative;
+    width: 95%;
+}
+
+.categories-group{
+    position: absolute;
+    top: 15em;
+    left: 10%;
+
+    border-radius: 1.5em;
+    height: 10em;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.category-btn{
+    background-color: #003E6B;
+    position: relative;
+    color: white;
+    border-radius: 1.5em;
+    width: 100%;
+    height: 100%;
+    margin: 0em 1em;
+}
+
+.category-btn:nth-child(1){
+    background-color: white;
+    color:black;
+}
+
+.category-btn:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+.category-btn>small{
+    position: absolute;
+    left:15%;
+    bottom:15%;
+}
+
+.category-btn>svg{
+    font-size: 2em;
+    position: absolute;
+    left:15%;
+    bottom:30%;
+}
+
+.utilities-container{
+    margin-top: 10em;
+}
+
+#project-search-field{
+    border-radius: 3em;
+    border: none;
+}
+
+#filter-container{
+    margin-top: 3em;
+    display: flex;
+}
+
+.dropdown-btn{
+    border-radius: 3em;
+    width: 10em;
+}
+
+#projects-container{
+    margin-top: 5em;
+}
+
+.map-container{
+    border-radius: 2em;
+    margin: 2em auto 0 auto;
+    height: 8em;
+    width: 87%;
+}
+
+.projects-card{
+    border-radius: 2em;
+}
+
+.projects-card:hover{
+    color: black;
+    text-decoration: none;
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+/* projects.blade.php styles end */
+>>>>>>> ad4fc5819634349042e31e3d384d1191c8e05c72
