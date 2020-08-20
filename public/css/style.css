@@ -66,3 +66,13 @@ footer>div{
     height: 6em;
 }
 /* footer.blade.php styles end */
+
+.page-3-title{
+    color:#84C5F4;
+    font-size: 16px;
+}
+
+.page-3-desc{
+    font-size: 32px;
+    color: #F0F4F8;
+}
