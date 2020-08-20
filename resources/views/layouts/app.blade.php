@@ -19,7 +19,6 @@
     <!-- Styles -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
-<<<<<<< HEAD
     {{-- font awesome --}}
     <style>
         html, body{
@@ -27,8 +26,6 @@
             padding: 0;
         }
     </style>
-=======
->>>>>>> ad4fc5819634349042e31e3d384d1191c8e05c72
 </head>
 <body>
     <div id="app">
