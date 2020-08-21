@@ -64,6 +64,27 @@ a:hover{
     margin-bottom: 7em;
 }
 
+.featured-group{
+    border-radius: 1.5em;
+}
+
+.featured-group>.card{
+    border: none;
+}
+
+.homecard-links{
+    color:black;
+    border: none;
+}
+
+.homecard-links:hover{
+    color:black;
+    background-color: #DCEEFB;
+    border: none;
+    border-radius: 1.5em;
+    text-decoration: none;
+}
+
 .badge{
     border-radius: 2em;
 }
@@ -74,6 +95,13 @@ a:hover{
 
 .card-deck>.card{
     height: 15em;
+}
+
+.type-icon-container{
+    margin: 1em auto;
+    height: 5em;
+    width: 10em;
+    border-radius: 1em;
 }
 
 /* home.blade.php styles end */

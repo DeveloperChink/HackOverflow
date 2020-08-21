@@ -53,6 +53,7 @@
             </div>
         </div>
 
+<<<<<<< HEAD
         {{-- featured projects --}}
         <div class="container text-center" style="font-size: 36px; font-weight: bold; color: #486581;">
             Featured Projects
@@ -256,8 +257,103 @@
                         </div>
                     </div>
                 </div>
+=======
+        <div class="featured-projects-container container">
+            <h1 class="text-center">Featured Projects</h1>
+
+            {{-- card group for featured projects --}}
+            <div class="d-flex flex-column card-group featured-group bg-white p-2">
+
+                {{-- added two example cards while logic for looping thru data is not yet implemented --}}
+                
+                {{-- card start --}}
+                <div class="card mb-3" >
+                    <a href="" class="homecard-links">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                {{-- <img src="..." class="card-img" alt="..."> --}}
+                                <div class="type-icon-container bg-dark"></div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <div>
+                                        <h5 class="card-title w-50 d-inline">Project Title <span class="badge badge-warning">Ongoing</span></h5>
+                                            <span class="float-right d-inline">
+                                                <i class="far fa-smile"></i>
+                                                <span class="badge badge-light">50+</span>
+
+                                                <i class="far fa-frown"></i>
+                                                <span class="badge badge-light">20+</span>
+                                            </span>
+                                    </div>
+
+                                    <div>
+                                        <p class="card-text d-inline" style="margin-right: 2em;"><small class="text-muted">P 1.5 Million</small></p>
+                                        <p class="card-text d-inline">
+                                            <i class="fas fa-map-marker-alt"></i>
+                                            <small class="text-muted">location</small>
+                                        </p>
+                                        <p class="float-right d-inline">
+                                            <i class="far fa-calendar"></i>
+                                            <small class="text-muted">August 20, 2020</small>
+                                        </p>
+                                    </div>
+                                
+                                </div>
+                            </div>
+                        </div>
+                        </a>
+                </div>
+                {{-- card end --}}
+                
+                
+
+                {{-- card start --}}
+                 <div class="card mb-3" >
+                    <a href="" class="homecard-links">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                {{-- <img src="..." class="card-img" alt="..."> --}}
+                                <div class="type-icon-container bg-dark"></div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <div>
+                                        <h5 class="card-title w-50 d-inline">Project Title <span class="badge badge-success">Finished</span></h5>
+                                            <span class="float-right d-inline">
+                                                <i class="far fa-smile"></i>
+                                                <span class="badge badge-light">50+</span>
+
+                                                <i class="far fa-frown"></i>
+                                                <span class="badge badge-light">20+</span>
+                                            </span>
+                                    </div>
+
+                                    <div>
+                                        <p class="card-text d-inline" style="margin-right: 2em;"><small class="text-muted">P 1.5 Million</small></p>
+                                        <p class="card-text d-inline">
+                                            <i class="fas fa-map-marker-alt"></i>
+                                            <small class="text-muted">location</small>
+                                        </p>
+                                        <p class="float-right d-inline">
+                                            <i class="far fa-calendar"></i>
+                                            <small class="text-muted">August 20, 2020</small>
+                                        </p>
+                                    </div>
+                                
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                {{-- card end --}}
+                <h2 class="text-center">
+                    <a class="btn btn-light" href="#" role="button">View All Projects</a>
+                </h2>
+>>>>>>> origin
             </div>
 
+<<<<<<< HEAD
             {{-- new row --}}
             <div class="row d-flex align-items-start pb-5 mb-5" style="border-bottom: 2px solid #D9E2EC;">
 
@@ -269,6 +365,10 @@
                         </svg>
                     </div>
                 </div>
+=======
+        </div>
+        {{-- featured-projects end --}}
+>>>>>>> origin
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
@@ -305,6 +405,7 @@
                     </div>
                 </div>
 
+<<<<<<< HEAD
                 <div class="col-lg col-md-4 col-sm-6 col-6">
                     <div class="row pt-3">
                         <div class="ml-auto d-flex align-items-center">
@@ -321,10 +422,17 @@
                             </svg>
                             <div class="ml-1" style="font-size: 16px; color: #9FB3C8;">May 16, 20XX</div>
                         </div>
+=======
+                <div class="card bg-dark text-white">
+                    {{-- <img src="..." class="card-img" alt="..."> --}}
+                    <div class="card-img-overlay">
+                      <h5 class="card-title">org image</h5>
+>>>>>>> origin
                     </div>
                 </div>
             </div>
 
+<<<<<<< HEAD
             {{-- new row --}}
             <div class="row d-flex align-items-start pb-5 mb-5" style="border-bottom: 2px solid #D9E2EC;">
 
@@ -398,6 +506,26 @@
                         <button class="btn" style="color:#486581; font-size: 16px; font-weight: bold;">
                             View All Projects...
                         </button>
+=======
+                <div class="card bg-dark text-white">
+                    {{-- <img src="..." class="card-img" alt="..."> --}}
+                    <div class="card-img-overlay">
+                      <h5 class="card-title">org image</h5>
+                    </div>
+                </div>
+
+                <div class="card bg-dark text-white">
+                    {{-- <img src="..." class="card-img" alt="..."> --}}
+                    <div class="card-img-overlay">
+                      <h5 class="card-title">org image</h5>
+                    </div>
+                </div>
+
+                <div class="card bg-dark text-white">
+                    {{-- <img src="..." class="card-img" alt="..."> --}}
+                    <div class="card-img-overlay">
+                      <h5 class="card-title">org image</h5>
+>>>>>>> origin
                     </div>
                 </div>
             </div>
