@@ -86,7 +86,9 @@
                 </div>
 
                 {{-- blockchain information --}}
-                <div class="font-weight-bold mt-4" style="font-size: 24px; color:#334E68;">Blockchain Information</div>
+                <div class="font-weight-bold mt-4" style="font-size: 24px; color:#334E68;">
+                    Blockchain Information
+                </div>
                 <div class="row pt-3">
                     <div class="col-lg-6 col-sm-12 ">
                         <div style="font-size: 16px; color: #334E68; font-weight: bold;">Transaction Hash</div>
@@ -103,6 +105,66 @@
                     <div class="col-lg-6 col-sm-12 embed-responsive embed-responsive-21by9">
                         <iframe style="border-radius: 15px; class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.843835200221!2d123.90888391479719!3d10.354368992608785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a99894d1b6ae25%3A0xc2d9b9e99316c59d!2sUniversity%20of%20San%20Carlos!5e0!3m2!1sen!2sph!4v1597951698190!5m2!1sen!2sph" width="600" height="260" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     </div>
+                </div>
+
+                {{-- bidding table --}}
+                <div class="d-flex align-items-center mt-5">
+                    <div style="font-size: 24px; color: #334E68; font-weight: bold;">
+                        Bidding
+                    </div>
+                    <div class="ml-auto">
+                        <button class="btn text-white font-weight-bold" style="background-color:#003E6B;font-size: 12px; border-radius: 100px;">
+                            Apply Bid
+                        </button>
+                    </div>
+                </div>
+                <div class="table-responsive" style="border-radius: 10px !important;">
+                    <table class="table mt-3">
+                        <thead>
+                          <tr class="text-table-color bg-white">
+                            <th scope="col">Project Management Office</th>
+                            <th scope="col">Mode of Procurement</th>
+                            <th scope="col">Pre-Proc Conference</th>
+                            <th scope="col">Ads/Post of IB</th>
+                            <th scope="col">Source of Funds</th>
+                            <th scope="col" class="text-right">Total</th>
+                            <th scope="col" class="text-right">MOOE</th>
+                            <th scope="col" class="text-right">CO</th>
+                          </tr>
+                        </thead>
+                        <tbody class="text-table-color">
+                          <tr style="background-color:#F0F4F8;">
+                            <td>XXXXXX</td>
+                            <td>XXXX</td>
+                            <td>May-19</td>
+                            <td>May-19</td>
+                            <td>XXXX</td>
+                            <td>P XXX,XXX,XXX.XX</td>
+                            <td>P XXX,XXX,XXX.XX</td>
+                            <td>P XXX,XXX,XXX.XX</td>
+                          </tr>
+                          <tr class="bg-white">
+                            <td>XXXXXX</td>
+                            <td>XXXX</td>
+                            <td>May-19</td>
+                            <td>May-19</td>
+                            <td>XXXX</td>
+                            <td>P XXX,XXX,XXX.XX</td>
+                            <td>P XXX,XXX,XXX.XX</td>
+                            <td>P XXX,XXX,XXX.XX</td>
+                          </tr>
+                          <tr style="background-color:#F0F4F8;">
+                            <td>XXXXXX</td>
+                            <td>XXXX</td>
+                            <td>May-19</td>
+                            <td>May-19</td>
+                            <td>XXXX</td>
+                            <td>P XXX,XXX,XXX.XX</td>
+                            <td>P XXX,XXX,XXX.XX</td>
+                            <td>P XXX,XXX,XXX.XX</td>
+                          </tr>
+                        </tbody>
+                    </table>
                 </div>
 
                 {{-- satisfaction box --}}
