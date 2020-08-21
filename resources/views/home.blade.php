@@ -406,7 +406,43 @@
                     </div>
                 </div>
             </div>
+        </div>
 
+        <div class="container mt-5 mb-5 d-flex">
+            <div class="mx-auto" style="font-size: 36px;color: #486581;">
+                Featured Organizations
+            </div>
+        </div>
+        <div class="container">
+            <div class="row d-flex justify-content-between">
+                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
+                    
+                </div>
+                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
+                    
+                </div>
+                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
+                    
+                </div>
+                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
+                    
+                </div>
+                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
+                    
+                </div>
+                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
+                    
+                </div>
+                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
+                    
+                </div>
+                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
+                    
+                </div>
+                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
+                    
+                </div>
+            </div>
         </div>
     </div>    
 @endsection
