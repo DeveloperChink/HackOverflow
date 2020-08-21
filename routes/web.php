@@ -13,14 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
+Route::get('/', 'GovernmentController@index');
 
-Route::get('/page3', function(){
-    return view('page3');
-});
+Route::get('/page3', 'GovernmentController@page3');
 
-Route::get('/projects', function () {
-    return view('layouts.projects');
-});
+Route::get('/projects', 'GovernmentController@show');
