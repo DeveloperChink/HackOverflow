@@ -130,16 +130,9 @@ footer>div{
 }
 
 .categories-group{
-    position: absolute;
-    top: 15em;
-    left: 10%;
+    top: -5em;
 
-    border-radius: 1.5em;
-    height: 10em;
-    width: 80%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    
 }
 
 .category-btn{
@@ -214,4 +207,7 @@ footer>div{
     text-decoration: none;
     box-shadow: 0 0 11px rgba(33,33,33,.2);
 }
+
+
 /* projects.blade.php styles end */
+

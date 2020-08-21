@@ -13,7 +13,7 @@
         </div>
 
         {{-- search bar --}}
-        <div class=" row justify-content-center">
+        <div class=" search-bar row justify-content-center">
             {{-- left side --}}
             <div class="col-11 col-lg-7 d-flex col-md-10 col-sm-10 search-bar bg-white shadow-sm">
                 <div class="col-6 d-flex align-items-center p-4">
