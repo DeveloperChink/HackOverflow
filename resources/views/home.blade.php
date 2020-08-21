@@ -136,6 +136,10 @@
             </div>
             {{-- card group div end --}}
 
+            <h2 class="text-center">
+                <a class="btn btn-light" href="{{ url('/projects') }}" role="button">View All Projects</a>
+            </h2>
+
         </div>
         {{-- featured-projects end --}}
 
