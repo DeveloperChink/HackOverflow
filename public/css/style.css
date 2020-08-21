@@ -209,5 +209,9 @@ footer>div{
 }
 
 
+#project-search-container{
+    width:65%;
+}
+
 /* projects.blade.php styles end */
 
