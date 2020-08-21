@@ -35,10 +35,10 @@
 
                 <div class="pt-3" style="font-size: 32px;">Overview</div>
                 {{-- jumbotron --}}
-                <div class="row p-4 mt-3 d-flex align-items-center text-center" style="background-color: #0F609B; border-radius: 20px;">
+                <div class="row p-4 mt-3 d-flex align-items-center" style="background-color: #0F609B; border-radius: 20px;">
                     <div class="col-lg-4 col-sm-12">
                         <div class="page-3-title">Project Name</div>
-                        <div class="d-flex justify-content-center align-items-center">
+                        <div class="d-flex align-items-center">
                             <div class="page-3-desc mr-3">Project X</div>
                             <div class="pt-1 pb-1 pr-2 pl-2" style="font-size: 16px; border-radius: 100px; background-color: #FCEFC7;">
                                 <span class="h6" style="color:#C99A2E;">Pending</span>

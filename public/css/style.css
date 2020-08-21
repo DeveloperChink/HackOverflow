@@ -20,9 +20,11 @@ a:hover{
 
 .jumbotron{
     background-color: #DCEEFB;
-    height: 20em;
+    /* height: 20em; */
     border-radius: 1.5em;
 }
+
+/* jumbotron text responsive */
 
 .jumbotron>h1{
     color: #003E6B;
@@ -33,16 +35,9 @@ a:hover{
 }
 
 .search-bar{
-    position: absolute;
-    top:17.5em;
-    left: 10%;
+    top: -5em;
 
-    border-radius: 1.5em;
-    height: 5em;
-    width: 80%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    border-radius: 20px;
 }
 
 #search-field{
