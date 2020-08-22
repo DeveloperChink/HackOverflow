@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="container mt-5">
-        <a href="{{url('/')}}" id="bidding-back-btn" style="font-size: 1.5em; color: #334E68;">
+        <a href="{{url('/page3')}}" id="bidding-back-btn" style="font-size: 1.5em; color: #334E68;">
             <i class="fas fa-angle-left"></i>
         </a>
         <h1 class="mt-4 pb-5" style="border-bottom: 2px solid #D9E2EC; color: #334E68;">Bidding</h1>
