@@ -11,7 +11,7 @@ class GovernmentController extends Controller
     }
 
     public function show(){
-            return view('layouts.projects');
+        return view('layouts.projects');
     }
 
     public function page3(){
@@ -20,5 +20,7 @@ class GovernmentController extends Controller
 
     public function bidding(){
         return view('layouts.bidding');
-}
+    }
+
+
 }

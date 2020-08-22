@@ -104,6 +104,15 @@ a:hover{
     border-radius: 1em;
 }
 
+.title-link{
+    color: #486581;
+}
+
+.title-link:hover{
+    color:#003E6B;
+    text-decoration: none;
+}
+
 /* home.blade.php styles end */
 
 
@@ -264,3 +273,9 @@ footer>div{
     color: #627D98;
 }
 /* bidding.blade.php styles end */
+
+/* page 3 */
+.text-table-color{
+    color: #486581;
+}
+/* page 3 end */

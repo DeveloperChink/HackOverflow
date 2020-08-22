@@ -72,7 +72,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        Title of the Project
+                        <a href="/page3" class="title-link">Title of the Project</a>
                     </div>
                     <div style="color: #9FB3C8; font-size: 16px;">
                         P 1.5 Million
@@ -141,7 +141,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        Title of the Project
+                        <a href="/page3" class="title-link">Title of the Project</a>
                     </div>
                     <div style="color: #9FB3C8; font-size: 16px;">
                         P 1.5 Million
@@ -208,7 +208,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        Title of the Project
+                        <a href="/page3" class="title-link">Title of the Project</a>
                     </div>
                     <div style="color: #9FB3C8; font-size: 16px;">
                         P 1.5 Million
@@ -276,7 +276,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        Title of the Project
+                        <a href="/page3" class="title-link">Title of the Project</a>
                     </div>
                     <div style="color: #9FB3C8; font-size: 16px;">
                         P 1.5 Million
@@ -344,7 +344,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        Title of the Project
+                        <a href="/page3" class="title-link">Title of the Project</a>
                     </div>
                     <div style="color: #9FB3C8; font-size: 16px;">
                         P 1.5 Million
@@ -400,9 +400,9 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div >
-                        <button class="btn" style="color:#486581; font-size: 16px; font-weight: bold;">
+                        <a class="btn" href="{{ url('/projects') }}"style="color:#486581; font-size: 16px; font-weight: bold;">
                             View All Projects...
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>
