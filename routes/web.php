@@ -18,3 +18,5 @@ Route::get('/', 'GovernmentController@index');
 Route::get('/page3', 'GovernmentController@page3');
 
 Route::get('/projects', 'GovernmentController@show');
+
+Route::get('/applybid', 'GovernmentController@bidding');

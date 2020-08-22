@@ -215,3 +215,52 @@ footer>div{
 
 /* projects.blade.php styles end */
 
+
+/* bidding.blade.php styles*/
+
+#bidding-form-container{
+    margin-top: 3em;
+}
+
+#bidding-form>.form-group{
+    width: 80%;
+    margin: auto;
+}
+
+#bidding-form>.form-group>label{
+    text-align: right;
+    color: #627D98;
+}
+
+.modal-header{
+    border: none;
+}
+
+.modal-header>h2{
+    color: #334E68;
+    margin: auto;
+}
+
+.modal-content{
+    border-radius: 1.5em;
+    background-color: #F0F4F8;
+}
+
+.modal-footer{
+    border:none;
+}
+
+.modal-footer>button{
+    margin: auto;
+    background-color: #003E6B;;
+}
+
+#bidding-summary-modal-form>.form-group>label{
+    text-align: right;
+    color: #627D98;
+}
+
+#bidding-summary-modal-form>.form-group>div>input{
+    color: #627D98;
+}
+/* bidding.blade.php styles end */

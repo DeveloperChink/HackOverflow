@@ -17,4 +17,8 @@ class GovernmentController extends Controller
     public function page3(){
             return view('page3');
     }
+
+    public function bidding(){
+        return view('layouts.bidding');
+}
 }
