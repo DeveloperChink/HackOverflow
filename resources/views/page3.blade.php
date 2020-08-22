@@ -92,7 +92,11 @@
                 <div class="row pt-3">
                     <div class="col-lg-6 col-sm-12 ">
                         <div style="font-size: 16px; color: #334E68; font-weight: bold;">Transaction Hash</div>
-                        <div class="mb-2" style="font-size: 16px; color: #334E68;">0001 XXXX XXXX XXXX</div>
+                        <div class="mb-2" style="font-size: 16px; color: #334E68;">
+                            <a href="https://etherscan.io/block/10707827" class="text-primary" target="_blank">
+                                0001 XXXX XXXX XXXX
+                            </a>
+                        </div>
                         <div style="font-size: 16px; color: #334E68; font-weight: bold;">Published</div>
                         <div class="mb-2" style="font-size: 16px; color: #334E68;">August 21, 20XX</div>
                         <div style="font-size: 16px; color: #334E68; font-weight: bold;">Contract Number</div>
@@ -113,9 +117,9 @@
                         Bidding
                     </div>
                     <div class="ml-auto">
-                        <button class="btn text-white font-weight-bold" style="background-color:#003E6B;font-size: 12px; border-radius: 100px;">
+                        <a href="#" class="btn text-white font-weight-bold" style="background-color:#003E6B;font-size: 12px; border-radius: 100px;">
                             Apply Bid
-                        </button>
+                        </a>
                     </div>
                 </div>
                 <div class="table-responsive" style="border-radius: 10px !important;">
