@@ -13,6 +13,9 @@
                 <li class="nav-item">
                 <a class="nav-link" href="{{url('/projects')}}">Projects</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{url('/bid-opportunities')}}">Bid Opportunities</a>
+                </li>
                 {{-- <li class="nav-item">
                 <a class="nav-link" href="#">Pricing</a>
                 </li> --}}
