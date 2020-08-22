@@ -10,11 +10,5 @@ class GovernmentController extends Controller
             return view('home');
     }
 
-    public function show(){
-            return view('layouts.projects');
-    }
 
-    public function page3(){
-            return view('page3');
-    }
 }
