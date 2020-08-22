@@ -47,7 +47,7 @@
                     <div class="col-sm-1"></div>
                     <label for="inputPPC" class="col-sm-4 col-form-label">Pre-Proc Conference</label>
                     <div class="col-sm-4">
-                        <input type="text" class="form-control" id="inputPPC" placeholder="">
+                        <input type="date" class="form-control" id="inputPPC" placeholder="">
                     </div>
                 </div>
 
@@ -55,7 +55,7 @@
                     <div class="col-sm-1"></div>
                     <label for="inputIB" class="col-sm-4 col-form-label">Ads/Post of IB</label>
                     <div class="col-sm-4">
-                        <input type="text" class="form-control" id="inputIB" placeholder="">
+                        <input type="date" class="form-control" id="inputIB" placeholder="">
                     </div>
                 </div>
 
