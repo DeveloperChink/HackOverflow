@@ -1,4 +1,5 @@
-<div class="col-lg-5 bg-white shadow-sm mt-3 mr-3" style="border-radius: 20px;">
+
+<div class="col-lg-5 bg-white shadow-sm mt-3 mr-3" style="border-radius: 20px;" ><a href= "{{ url('/page3')}}">
     <div class="col-lg-12 col-sm-12 embed-responsive embed-responsive-21by9">
         <iframe style="border-radius: 25px;" class="embed-responsive-item pt-3 pb-3 " src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1582715181835!2d123.94118431479687!3d10.329215992625919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9984ede351c91%3A0x7463baa0b072bed2!2sDr.%20Ignacio%20M.%20Cortes%20General%20Hospital%2C%20Inc.!5e0!3m2!1sen!2sph!4v1597998726141!5m2!1sen!2sph"
          width="100" height="100" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
@@ -30,4 +31,5 @@
             </div>
         </div>
     </div>
+    </a>
 </div>

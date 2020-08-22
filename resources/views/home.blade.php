@@ -400,9 +400,9 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div >
-                        <button class="btn" style="color:#486581; font-size: 16px; font-weight: bold;">
+                        <a class="btn" href="{{ url('/projects') }}"style="color:#486581; font-size: 16px; font-weight: bold;">
                             View All Projects...
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>

@@ -27,7 +27,7 @@
 
                 {{-- back button --}}
                 <div class="pt-3" style="font-size: 16px;">
-                    <a href="" class="text-dark text-center">
+                    <a href="{{ url('/projects') }}" class="text-dark text-center">
                         <i class="fa fa-chevron-left"></i> 
                         Back to all projects
                     </a>
