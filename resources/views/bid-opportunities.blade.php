@@ -72,7 +72,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        <a href="/projects/bid-details" target="_blank" class="title-link">Road Widening at Brgy. Tabok</a>
+                        <a href="/projects/bid-details"  class="title-link">Road Widening at Brgy. Tabok</a>
                     </div>
                 </div>
 
@@ -131,7 +131,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        <a href="/projects/bid-details" target="_blank" class="title-link">Acquisition of COVID Machines</a>
+                        <a href="/projects/bid-details"  class="title-link">Acquisition of COVID Machines</a>
                     </div>
                 </div>
 
@@ -188,7 +188,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        <a href="/projects/bid-details" target="_blank" class="title-link">Purchase of Laptop for Teachers in Mandaue Central School</a>
+                        <a href="/projects/bid-details"  class="title-link">Purchase of Laptop for Teachers in Mandaue Central School</a>
                     </div>
 
                 </div>
@@ -246,7 +246,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        <a href="/projects/bid-details" target="_blank" class="title-link">Clean up Drive at the Mandaue River</a>
+                        <a href="/projects/bid-details"  class="title-link">Clean up Drive at the Mandaue River</a>
                     </div>
 
                 </div>
@@ -305,7 +305,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        <a href="/projects/bid-details" target="_blank" class="title-link">Proposed Mandaue Sports Center</a>
+                        <a href="/projects/bid-details"  class="title-link">Proposed Mandaue Sports Center</a>
                     </div>
                 </div>
 

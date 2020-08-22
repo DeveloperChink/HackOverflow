@@ -110,7 +110,7 @@
                                 <div class="col-sm-2"></div>
                                 <label for="inputPMO" class="col-sm-4 col-form-label">Project Management Office</label>
                                 <div class="col-sm-4">
-                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="XXXXXXXXXXXXXXX">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="ZENISUS CONTRACTORS">
                                 </div>
                                 <div class="col-sm-2"></div>
                             </div>
@@ -119,7 +119,7 @@
                                 <div class="col-sm-2"></div>
                                 <label for="inputMOP" class="col-sm-4 col-form-label">Mode of Procurement</label>
                                 <div class="col-sm-4">
-                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="Mode of Procurement">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="Negotiated Procurement">
                                 </div>
                                 <div class="col-sm-2"></div>
                             </div>
@@ -128,7 +128,7 @@
                                 <div class="col-sm-2"></div>
                                 <label for="inputBL" class="col-sm-4 col-form-label">Business License</label>
                                 <div class="col-sm-4">
-                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="Business License">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="BP-2018-XYZ">
                                 </div>
                                 <div class="col-sm-2"></div>
                             </div>
@@ -137,7 +137,7 @@
                                 <div class="col-sm-2"></div>
                                 <label for="inputEmail" class="col-sm-4 col-form-label"> Business Email Address</label>
                                 <div class="col-sm-4">
-                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="email@example.com">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="zenisuscontractors@gmail.com">
                                 </div>
                                 <div class="col-sm-2"></div>
                             </div>
@@ -146,7 +146,7 @@
                                 <div class="col-sm-2"></div>
                                 <label for="inputPPC" class="col-sm-4 col-form-label">Pre-Proc Conference</label>
                                 <div class="col-sm-4">
-                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="Pre-Proc Conference">
+                                    <input type="date" readonly class="form-control-plaintext" id="staticEmail" value="07/12/2020">
                                 </div>
                                 <div class="col-sm-2"></div>
                             </div>
@@ -155,7 +155,7 @@
                                 <div class="col-sm-2"></div>
                                 <label for="inputIB" class="col-sm-4 col-form-label">Ads/Post of IB</label>
                                 <div class="col-sm-4">
-                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="Ads/Post of IB">
+                                    <input type="date" readonly class="form-control-plaintext" id="staticEmail" value="07/12/2020">
                                 </div>
                                 <div class="col-sm-2"></div>
                             </div>
@@ -164,7 +164,7 @@
                                 <div class="col-sm-2"></div>
                                 <label for="inputTotal" class="col-sm-4 col-form-label">Total</label>
                                 <div class="col-sm-4">
-                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="P XXX,XXX,XXX">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="P 51,957,925.00">
                                 </div>
                                 <div class="col-sm-2"></div>
                             </div>
@@ -173,7 +173,7 @@
                                 <div class="col-sm-2"></div>
                                 <label for="inputMODE" class="col-sm-4 col-form-label">MODE</label>
                                 <div class="col-sm-4">
-                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="P XXX,XXX,XXX">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="P 47,321,721.00">
                                 </div>
                                 <div class="col-sm-2"></div>
                             </div>
@@ -182,14 +182,14 @@
                                 <div class="col-sm-2"></div>
                                 <label for="inputCO" class="col-sm-4 col-form-label">CO</label>
                                 <div class="col-sm-4">
-                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="P XXX,XXX,XXX">
+                                    <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="P 4,636,204">
                                 </div>
                                 <div class="col-sm-2"></div>
                             </div>
                         </form>
                     </div>
                     <div class="modal-footer">
-                        <a href="{{url('/page3')}}" class="btn btn-primary" style="border-radius: 2em">Go back to project</a>
+                        <a href="{{url('/')}}" class="btn btn-primary" style="border-radius: 2em">Go back to project</a>
                     </div>
                 </div>
             </div>
