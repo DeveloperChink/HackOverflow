@@ -351,7 +351,7 @@
                 <div class="col-12 text-center">
                     <div >
                         <a class="btn" href="{{ url('/projects') }}"style="color:#486581; font-size: 16px; font-weight: bold;">
-                            View All Projects...
+                            View All Open Bids
                         </a>
                     </div>
                 </div>
@@ -364,33 +364,24 @@
             </div>
         </div>
         <div class="container">
-            <div class="row d-flex justify-content-between">
-                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
-                    
+            <div class="row d-flex justify-content-between align-items-center">
+                <div class="col-lg-3 col-md-12 col-sm-12 col-12 mr-1 mt-2" >
+                    <img src="{{asset('uploads/pice.png')}}" alt="" style="max-height: 245px; max-width: 250px;">
                 </div>
-                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
-                    
+                <div class="col-lg-3 col-md-12 col-sm-12 col-12 mr-1 mt-2">
+                    <img src="{{asset('uploads/cebucontractors.png')}}" alt="" style="max-height: 245px; max-width: 250px;">
                 </div>
-                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
-                    
+                <div class="col-lg-3 col-md-12 col-sm-12 col-12 mr-1 mt-2">
+                    <img src="{{asset('uploads/asep.jpg')}}" alt="" style="max-height: 245px; max-width: 250px;">
                 </div>
-                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
-                    
+                <div class="col-lg-3 col-md-12 col-sm-12 col-12 mr-1 mt-2">
+                    <img src="{{asset('uploads/chamber.png')}}" alt="" style="max-height: 245px; max-width: 250px;">
                 </div>
-                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
-                    
+                <div class="col-lg-3 col-md-12 col-sm-12 col-12 mr-1 mt-2">
+                    <img src="{{asset('uploads/aci.png')}}" alt="" style="max-height: 245px; max-width: 250px;">
                 </div>
-                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
-                    
-                </div>
-                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
-                    
-                </div>
-                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
-                    
-                </div>
-                <div class="col-lg-3 mr-1 mt-2" style="background-color:#BCCCDC; border-radius: 20px; height: 245px;">
-                    
+                <div class="col-lg-3 col-md-12 col-sm-12 col-12 mr-1 mt-2">
+                    <img src="{{asset('uploads/dpwh.ico')}}" alt="" style="max-height: 245px; max-width: 250px;">
                 </div>
             </div>
         </div>
