@@ -117,7 +117,7 @@
                         Bidding
                     </div>
                     <div class="ml-auto">
-                        <a href="#" class="btn text-white font-weight-bold" style="background-color:#003E6B;font-size: 12px; border-radius: 100px;">
+                    <a href="{{url('/applybid')}}" class="btn text-white font-weight-bold" style="background-color:#003E6B;font-size: 12px; border-radius: 100px;">
                             Apply Bid
                         </a>
                     </div>

@@ -91,7 +91,7 @@
                         <button type="submit" class="btn btn-primary float-right" style="border-radius:2em; background-color:#003E6B;" data-toggle="modal" data-target="#bidModal">
                             Apply Bid
                         </button>
-                        <button type="" class="btn float-right mr-3">Cancel</button>
+                        <a href="{{url('/page3')}}" class="btn float-right mr-3">Cancel</a>
                     </div>
                 </div>
             </form>
@@ -189,7 +189,7 @@
                         </form>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-primary" style="border-radius: 2em">Go back to project</button>
+                        <a href="{{url('/page3')}}" class="btn btn-primary" style="border-radius: 2em">Go back to project</a>
                     </div>
                 </div>
             </div>

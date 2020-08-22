@@ -259,7 +259,7 @@ footer>div{
     border:none;
 }
 
-.modal-footer>button{
+.modal-footer>a{
     margin: auto;
     background-color: #003E6B;;
 }
