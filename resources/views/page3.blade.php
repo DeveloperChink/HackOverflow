@@ -111,8 +111,36 @@
                     </div>
                 </div>
 
+                <div class="table-responsive mt-3">
+                    <table class="table mt-3">
+                        <thead>
+                            <tr class="text-table-color bg-white">
+                                <th scope="col">Timestamp</th>
+                                <th scope="col">Progress Update</th>
+                                <th scope="col">Contact Person</th>
+                            </tr>
+                        </thead>
+                        <tbody class="text-table-color">
+                            <tr style="background-color:#F0F4F8;">
+                                <td>January, 2018</td>
+                                <td>Contract Signed</td>
+                                <td>Juan dela Cruz</td>
+                            </tr>
+                            <tr class="bg-white">
+                                <td>April 15, 2018</td>
+                                <td>Materials and equipment arrived on site</td>
+                                <td>Juan dela Cruz</td>
+                            </tr>
+                            <tr style="background-color:#F0F4F8;">
+                                <td>August 23, 2018</td>
+                                <td>Foundation Completed</td>
+                                <td>Juan dela Cruz</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
                 {{-- bidding table --}}
-                <div class="table-responsive mt-3" style="border-radius: 10px !important;">
+                <div class="table-responsive mt-3">
                     <table class="table mt-3">
                         <thead>
                           <tr class="text-table-color bg-white">
