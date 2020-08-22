@@ -74,10 +74,49 @@
 
                 {{-- description --}}
                 <div class="row pt-4">
-                    <div class="col-12">
-                        <div class="text-justify" style="color:#829AB1;">
-                            Road Widening Brgy. Tabok
+                    <div class="col-12 text-justify">
+                        {{-- <div class="text-justify" style="color:#829AB1;">
+                            
+                        </div> --}}
+                        <div class="font-weight-bold">
+                            Description
                         </div>
+                        <p>
+                            Republic of the Philippines <br>
+                            Province of Cebu <br>
+                            Municipality of Mandaue <br>
+                            Tabok, Mandaue
+                        </p>
+
+                        <p>
+                            INVITATION TO BID <br>
+                            ITB No./PhilGEPS Reference No. 7184235
+                        </p>
+                        <p>
+                            Road Widening at Brgy. Tabok
+                            (Barangay Tabok , Mandaue, Cebu)
+                        </p>
+                        <p>
+                            1. The Local Government of Calayan through the Land Bank of the Philippines Tuguegarao intends to apply the sum of P 59,973,000.00 being the Approved Budget for the Contract (ABC) to payments under the contract for Concreting of Calayan Circumferential Road (Bira-Bira-Caanawan Section) at Barangay Magsidel , Calayan, Cagayan. Bids received in excess of the ABC shall be automatically rejected at bid opening. <br>
+                            2. The Local Government of Calayan now invites bids for Concreting of Calayan Circunferential Road (Bira-Bira-Caanawan Section) at Barangay Magsidel , Calayan, Cagayan. To be eligible to bid for this Contract, a contractor must meet the following major requirement: a) PCAB LICENSE for size range: at least Medium A License Category: B, b) completion of similar contract costing at least 50% of the ABC and c) Net Financial Contracting Capacity (NFCC) at least equal to ABC. The complete description of an eligible bidder is contained in the Bidding Documents, particularly, in Section II. Instructions to Bidders. The Approved Budget for the Contract (ABC) P 59,973,000.00 and Contract Duration for these project is 360 Calendar Days. <br>
+                            3. Bidding will be conducted through open competitive bidding procedures using non-discretionary “pass/fail” criterion as specified in the 2016 Revised Implementing Rules and Regulations (IRR) of Republic Act 9184 (RA 9184), otherwise known as the “Government Procurement Reform Act.” <br>
+                            Bidding is restricted to Filipino citizens/sole proprietorships, cooperatives, and partnerships or organizations with at least seventy five percent (75%) interest or outstanding capital stock belonging to citizens of the Philippines.
+                            Interested bidders may obtain further information from Bids and Awards Committee of the Local Government of Calayan and inspect the Bidding Documents at the address given below from 8;00am to 5:00pm, Monday to Friday. <br>
+                            4. A complete set of Bidding Documents may be acquired by interested bidders on August 19-5-Oct 2020 from the address below Bids and Awards Committee, Municipal Hall Building, Poblacion, Calayan, Cagayan upon payment of a nonrefundable fee in the amount of P 50,000.00. <br>
+                            It may also be downloaded free of charge from the website of the Philippine Government Electronic Procurement System (PhilGEPS) and the website of the Procuring Entity, provided that bidders shall pay the applicable fee for the Bidding Documents not later than the submission of their bids. <br>
+                            5. The Bids and Awards Committee will hold a Pre-Bid Conference on August 26, 2020, 10:00 am at the BAC Conference Room, Municipal Hall, Poblacion, Calayan, Cagayan, which shall be open to prospective bidders. <br>
+                            6. Bids must be duly received by the BAC Secretariat at the address below on or before October 5, 2020, 9:00 am. All bids must be accompanied by a bid security in any of the acceptable forms and in the amount stated in ITB Clause 18.
+                            Bid opening shall be on October 5, 2020, 10:00 am at BAC Conference Room, Municipal Hall, Poblacion, Calayan, Cagayan. Bids will be opened in the presence of the bidders’ representatives who choose to attend at the address below. Late bids shall not be accepted. <br>
+                            7. The Local Government of Calayan reserves the right to reject any and all bids, declare a failure of bidding, or not award the contract at any time prior to contract award in accordance with Section 41 of RA 9184 and its IRR, without thereby incurring any liability to the affected bidder or bidders. <br>
+                            8. For further information, please refer to: <br>
+                        </p>
+                        <p>
+                            Sgd). Juan dela Cruz <br>
+                            Chairman, Bids and Awards Committee <br>
+                            +639474681505 <br>
+                            juandelacruz@gmail.com <br>
+                        </p>
+
                     </div>
                 </div>
 
