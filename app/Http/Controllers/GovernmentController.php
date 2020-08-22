@@ -22,5 +22,13 @@ class GovernmentController extends Controller
         return view('layouts.bidding');
     }
 
+    public function bidOpportunity(){
+        return view('bid-opportunities');
+    }
+
+    public function bidDetails(){
+        return view('bid');
+    }
+
 
 }

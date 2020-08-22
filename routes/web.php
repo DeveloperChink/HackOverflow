@@ -15,8 +15,12 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'GovernmentController@index');
 
-Route::get('/page3', 'GovernmentController@page3');
+Route::get('/projects/proposed-mandaue-sports-center', 'GovernmentController@page3');
 
 Route::get('/projects', 'GovernmentController@show');
 
 Route::get('/applybid', 'GovernmentController@bidding');
+
+Route::get('/bid-opportunities', 'GovernmentController@bidOpportunity');
+
+Route::get('/projects/bid-details', 'GovernmentController@bidDetails');

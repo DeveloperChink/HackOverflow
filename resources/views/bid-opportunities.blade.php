@@ -55,7 +55,7 @@
 
         {{-- featured projects --}}
         <div class="container text-center" style="font-size: 36px; font-weight: bold; color: #486581;">
-            Featured Projects
+            Bid Opportunities
         </div>
         <div class="container bg-white shadow-sm mt-5 p-5" style="border-radius: 20px;">
             {{-- row --}}
@@ -72,10 +72,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        <a href="/projects/proposed-mandaue-sports-center" class="title-link">Completion of Banilad Multi-Purpose Building</a>
-                    </div>
-                    <div style="color: #9FB3C8; font-size: 16px;">
-                        P 1,995,901.09
+                        <a href="/projects/bid-details" target="_blank" class="title-link">Road Widening at Brgy. Tabok</a>
                     </div>
                 </div>
 
@@ -83,8 +80,8 @@
                     {{-- status --}}
                     <div class="row d-flex align-items-center pt-3">
                         <div class="col-lg-6">
-                            <div class="ml-2 text-center" style="font-size: 14px;color: #079A82; background-color: #C6F7E9; border-radius: 100px;">
-                                Completed
+                            <div class="ml-2 text-center" style="font-size: 14px;color: white; background-color: gray; border-radius: 100px;">
+                                Open
                             </div>
                         </div>
                     </div>
@@ -106,14 +103,7 @@
                 </div>
 
                 <div class="col-lg col-md-4 col-sm-6 col-6">
-                    <div class="row pt-3">
-                        <div class="ml-auto d-flex align-items-center">
-                            <i style="color:#9FB3C8;" class="fa fa-smile-o" aria-hidden="true"></i>
-                            <div class="pl-1 mr-1" style="color: #9FB3C8; font-size: 16px;">50+</div>
-                            <i style="color:#9FB3C8;" class="fa fa-frown-o" aria-hidden="true"></i>
-                            <div class="pl-1" style="color: #9FB3C8; font-size: 16px;">20+</div>
-                        </div>
-                    </div>
+                    
                     <div class="row">
                         <div class="ml-auto d-flex align-items-center">
                             <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -141,10 +131,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        <a href="/projects/proposed-mandaue-sports-center" class="title-link">Acquisition of PPE's for Mandaue City Hospital</a>
-                    </div>
-                    <div style="color: #9FB3C8; font-size: 16px;">
-                        P 5,295,056.88
+                        <a href="/projects/bid-details" target="_blank" class="title-link">Acquisition of COVID Machines</a>
                     </div>
                 </div>
 
@@ -152,8 +139,8 @@
                     {{-- status --}}
                     <div class="row d-flex align-items-center pt-3">
                         <div class="col-lg-6">
-                            <div class="ml-2 text-center" style="font-size: 14px;color: #C99A2E; background-color: #FCEFC7; border-radius: 100px;">
-                                Pending
+                            <div class="ml-2 text-center" style="font-size: 14px;color: white; background-color: gray; border-radius: 100px;">
+                                Open
                             </div>
                         </div>
                     </div>
@@ -175,14 +162,7 @@
                 </div>
 
                 <div class="col-lg col-md-4 col-sm-6 col-6">
-                    <div class="row pt-3">
-                        <div class="ml-auto d-flex align-items-center">
-                            <i style="color:#9FB3C8;" class="fa fa-smile-o" aria-hidden="true"></i>
-                            <div class="pl-1 mr-1" style="color: #9FB3C8; font-size: 16px;">320+</div>
-                            <i style="color:#9FB3C8;" class="fa fa-frown-o" aria-hidden="true"></i>
-                            <div class="pl-1" style="color: #9FB3C8; font-size: 16px;">50+</div>
-                        </div>
-                    </div>
+
                     <div class="row">
                         <div class="ml-auto d-flex align-items-center">
                             <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -208,19 +188,17 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        <a href="/projects/proposed-mandaue-sports-center" class="title-link">Purchase of Printers for Modular Learning</a>
+                        <a href="/projects/bid-details" target="_blank" class="title-link">Purchase of Laptop for Teachers in Mandaue Central School</a>
                     </div>
-                    <div style="color: #9FB3C8; font-size: 16px;">
-                        P 3,426,599.49
-                    </div>
+
                 </div>
 
                 <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                     {{-- status --}}
                     <div class="row d-flex align-items-center pt-3">
                         <div class="col-lg-6">
-                            <div class="ml-2 text-center bg-primary text-white" style="font-size: 14px;color: #A61B1B; border-radius: 100px;">
-                                On Going
+                            <div class="ml-2 text-center text-white" style="font-size: 14px;color: white; background-color: gray; border-radius: 100px;">
+                                Open
                             </div>
                         </div>
                     </div>
@@ -242,14 +220,6 @@
                 </div>
 
                 <div class="col-lg col-md-4 col-sm-6 col-6">
-                    <div class="row pt-3">
-                        <div class="ml-auto d-flex align-items-center">
-                            <i style="color:#9FB3C8;" class="fa fa-smile-o" aria-hidden="true"></i>
-                            <div class="pl-1 mr-1" style="color: #9FB3C8; font-size: 16px;">750+</div>
-                            <i style="color:#9FB3C8;" class="fa fa-frown-o" aria-hidden="true"></i>
-                            <div class="pl-1" style="color: #9FB3C8; font-size: 16px;">120+</div>
-                        </div>
-                    </div>
                     <div class="row">
                         <div class="ml-auto d-flex align-items-center">
                             <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -276,19 +246,17 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        <a href="/projects/proposed-mandaue-sports-center" class="title-link">Green Corridor Along Butuanon River Phase II</a>
+                        <a href="/projects/bid-details" target="_blank" class="title-link">Clean up Drive at the Mandaue River</a>
                     </div>
-                    <div style="color: #9FB3C8; font-size: 16px;">
-                        P 2,786,044.50
-                    </div>
+
                 </div>
 
                 <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                     {{-- status --}}
                     <div class="row d-flex align-items-center pt-3">
                         <div class="col-lg-6">
-                            <div class="ml-2 text-center bg-primary text-white" style="font-size: 14px;  background-color: #FACDCD; border-radius: 100px;">
-                                On Going
+                            <div class="ml-2 text-center text-white" style="font-size: 14px;  color: white; background-color: gray; border-radius: 100px;">
+                                Open
                             </div>
                         </div>
                     </div>
@@ -310,14 +278,7 @@
                 </div>
 
                 <div class="col-lg col-md-4 col-sm-6 col-6">
-                    <div class="row pt-3">
-                        <div class="ml-auto d-flex align-items-center">
-                            <i style="color:#9FB3C8;" class="fa fa-smile-o" aria-hidden="true"></i>
-                            <div class="pl-1 mr-1" style="color: #9FB3C8; font-size: 16px;">550+</div>
-                            <i style="color:#9FB3C8;" class="fa fa-frown-o" aria-hidden="true"></i>
-                            <div class="pl-1" style="color: #9FB3C8; font-size: 16px;">20+</div>
-                        </div>
-                    </div>
+
                     <div class="row">
                         <div class="ml-auto d-flex align-items-center">
                             <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -344,10 +305,7 @@
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="" style="font-size: 24px; color: #486581;">
-                        <a href="/projects/proposed-mandaue-sports-center" class="title-link">Proposed Mandaue Sports Center</a>
-                    </div>
-                    <div style="color: #9FB3C8; font-size: 16px;">
-                        P 51,957,925.00
+                        <a href="/projects/bid-details" target="_blank" class="title-link">Proposed Mandaue Sports Center</a>
                     </div>
                 </div>
 
@@ -355,8 +313,8 @@
                     {{-- status --}}
                     <div class="row d-flex align-items-center pt-3">
                         <div class="col-lg-6">
-                            <div class="ml-2 text-center" style="font-size: 14px;color: #079A82; background-color: #C6F7E9; border-radius: 100px;">
-                                Completed
+                            <div class="ml-2 text-center" style="font-size: 14px;color: white; background-color: gray; border-radius: 100px;">
+                                Open
                             </div>
                         </div>
                     </div>
@@ -378,20 +336,12 @@
                 </div>
 
                 <div class="col-lg col-md-4 col-sm-6 col-6">
-                    <div class="row pt-3">
-                        <div class="ml-auto d-flex align-items-center">
-                            <i style="color:#9FB3C8;" class="fa fa-smile-o" aria-hidden="true"></i>
-                            <div class="pl-1 mr-1" style="color: #9FB3C8; font-size: 16px;">321+</div>
-                            <i style="color:#9FB3C8;" class="fa fa-frown-o" aria-hidden="true"></i>
-                            <div class="pl-1" style="color: #9FB3C8; font-size: 16px;">70+</div>
-                        </div>
-                    </div>
                     <div class="row">
                         <div class="ml-auto d-flex align-items-center">
                             <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M3.5161 11.5H6.50227C6.77601 11.5 6.99997 11.275 6.99997 11V8C6.99997 7.725 6.77601 7.5 6.50227 7.5H3.5161C3.24237 7.5 3.0184 7.725 3.0184 8V11C3.0184 11.275 3.24237 11.5 3.5161 11.5ZM12.4746 2H10.9815V0.5C10.9815 0.225 10.7576 0 10.4838 0H9.48845C9.21472 0 8.99075 0.225 8.99075 0.5V2H5.00919V0.5C5.00919 0.225 4.78522 0 4.51149 0H3.5161C3.24237 0 3.0184 0.225 3.0184 0.5V2H1.52531C0.701005 2 0.0322266 2.67188 0.0322266 3.5V14.5C0.0322266 15.3281 0.701005 16 1.52531 16H12.4746C13.2989 16 13.9677 15.3281 13.9677 14.5V3.5C13.9677 2.67188 13.2989 2 12.4746 2ZM12.4746 14.3125C12.4746 14.4156 12.3906 14.5 12.288 14.5H1.71195C1.6093 14.5 1.52531 14.4156 1.52531 14.3125V5H12.4746V14.3125Z" fill="#9FB3C8"/>
                             </svg>
-                            <div class="ml-1" style="font-size: 16px; color: #9FB3C8;">May 16, 2019</div>
+                            <div class="ml-1" style="font-size: 16px; color: #9FB3C8;">May 16, 2020</div>
                         </div>
                     </div>
                 </div>

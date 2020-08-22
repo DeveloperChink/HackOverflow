@@ -11,9 +11,10 @@ class ProjectBox extends Component
      *
      * @return void
      */
+
     public function __construct()
     {
-        //
+
     }
 
     /**
