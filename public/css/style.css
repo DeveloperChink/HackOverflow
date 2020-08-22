@@ -104,6 +104,15 @@ a:hover{
     border-radius: 1em;
 }
 
+.title-link{
+    color: #486581;
+}
+
+.title-link:hover{
+    color:#003E6B;
+    text-decoration: none;
+}
+
 /* home.blade.php styles end */
 
 
